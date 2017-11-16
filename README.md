@@ -1,7 +1,3 @@
-![Circle Status](https://circleci.com/gh/joelea/dojo-participant-repo/tree/master.svg?style=shield)
+The source code for the Palantir Extreme Startup challenge at Imperial College London on 16 Nov 2017. 
 
-# Dojo Participant Resources
-
-This project contains resources and katas for running an engineering dojo.
-
-Set up each of the sub-projects by following the directions in each of their READMEs.
+Aaron Hau and I coded in TypeScript. So visit `extreme-startup-servers/typescript` to explore the source code.
